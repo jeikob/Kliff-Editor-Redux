@@ -5,5 +5,5 @@
 
 To run Kliff
 1) Clone this repository
-2) Run the command "npm update"
+2) Run the command "npm update" and "npm i"
 3) Run the command "npm start"
